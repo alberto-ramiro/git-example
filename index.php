@@ -1,1 +1,4 @@
-<?php \n echo 'Hola';
+<?php 
+
+
+ echo 'Hola';
